@@ -1,0 +1,6 @@
+@article{saito2020coco,
+  title={COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder},
+  author={Saito, Kuniaki and Saenko, Kate and Liu, Ming-Yu},
+  journal={arXiv preprint arXiv:2007.07431},
+  year={2020}
+}
